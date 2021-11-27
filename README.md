@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @envoyr
+- 🏡 Germany
+- 🗣️ German, English
 
 I make software for Docker, PHP and many more...
 <!---
