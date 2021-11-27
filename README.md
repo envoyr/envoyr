@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @envoyr
+- 👋 Hi, I’m envoyr
 - 🏡 Located in Germany
 - 🗣️ Speaks German, English
 
