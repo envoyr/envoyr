@@ -1,7 +1,7 @@
 - 👋 Hi, I’m envoyr
 - 🏡 Located in Germany
 - 🗣️ Speaks German, English
-- 🧰 Currently working on Froxlor, Chizuru, Uptimr.io, bitinflow
+- 🧰 Currently working on Froxlor, Uptimr.io, bitinflow
 
 I make software for PHP & Ubuntu and many more...
 
